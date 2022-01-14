@@ -2,7 +2,7 @@
 Helpful resources for scientific computing at UNLV.
 
 ## Wiki
-Check out our [**wiki**](https://github.com/UNLV-SPG/technical-resources/wiki) if you're getting started with scientific computing, including the basics of [GitHub](https://github.com/UNLV-SPG/technical-resources/wiki/Getting-Started#github), [Python environments](https://github.com/UNLV-SPG/technical-resources/wiki/Getting-Started#miniconda), and [JupyterLab](https://github.com/UNLV-SPG/technical-resources/wiki/Getting-Started#jupyterlab), or if you're looking for more [**Advanced Topics**](https://github.com/UNLV-SPG/technical-resources/wiki/Getting-Started#jupyterlab).
+Check out our [**wiki**](https://github.com/UNLV-SPG/technical-resources/wiki) if you're getting started with scientific computing, including the basics of [GitHub](https://github.com/UNLV-SPG/technical-resources/wiki/Getting-Started#github), [Python environments](https://github.com/UNLV-SPG/technical-resources/wiki/Getting-Started#miniconda), and [JupyterLab](https://github.com/UNLV-SPG/technical-resources/wiki/Getting-Started#jupyterlab), or if you're looking for more [**Advanced Topics**](https://github.com/UNLV-SPG/technical-resources/wiki#advanced--special-topics).
 
 ## Issues
 Found an error? Have a suggestion or question?
